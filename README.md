@@ -1,3 +1,3 @@
-# thirdassignment
-Note that when i handel the errors inclueded empty photo and other errors i retrun null in all this cases otherwiese i return the correct answer
-as there is no synthix in the assignment report tells me to throw certain type of errors only said "constrians and handel"
+# ThirdAssignment
+Note that when I handle the errors including empty photos and other errors I return null in all these cases otherwise I return the correct answer
+as there is no syntax in the assignment report that tells me to throw certain types of errors only says "constrains and handle"
