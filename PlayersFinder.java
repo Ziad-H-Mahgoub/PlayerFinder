@@ -51,7 +51,7 @@ public class PlayersFinder implements IPlayersFinder {
         }
     }
 
-    // make array spars array
+    // make array sparse array
 
     boolean[][] changeToSparse(String[] photo, int team, int Xmax, int Ymax) {
         int i,j;
